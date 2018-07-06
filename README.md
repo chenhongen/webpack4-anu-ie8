@@ -1,5 +1,5 @@
 # webpack4-anu-ie8
-> It can run on ie8+,however,it can surpport ie9+ when you add antd3,
+> Can run React16 on ie8+,however,it can only surpport ie9+ when you add [antd3](https://github.com/ant-design/ant-design).
 
 ## Development
 
